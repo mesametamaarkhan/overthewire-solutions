@@ -72,8 +72,3 @@ Use the password above to connect to the next level:
 ```bash
 ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
-
-```
-
-Let me know if you’d like this turned into a template or added to a GitHub repo structure!
-```
