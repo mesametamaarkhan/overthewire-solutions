@@ -21,6 +21,8 @@ The goal of this level is to find the password for the next level, which is stor
 
 ```bash
 ssh bandit1@bandit.labs.overthewire.org -p 2220
+cat < -
+OR
 cat ./-
 ````
 
